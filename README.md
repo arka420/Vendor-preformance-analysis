@@ -6,15 +6,6 @@ The goal is to convert raw transactional data into **actionable insights** for v
 
 ---
 
-## 🔗 Dataset Source (Kaggle)
-
-The dataset used in this project was sourced from Kaggle:
-
-👉 **Kaggle Dataset:**  
-https://www.kaggle.com/datasets/harshmadhavan/vendor-performance-analysis
-
----
-
 ## 🚀 Dataset Overview
 
 | Table Name | Description | Approx. Rows |
