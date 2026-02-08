@@ -96,12 +96,3 @@ The raw CSV files were loaded into a SQL database and transformed for analytics.
 - Improved dashboard responsiveness on large datasets
 
 ---
-
-## 📂 Repository Structure
-
-```text
-├── sql/
-│   └── vendor_analysis.sql
-├── powerbi/
-│   └── vendor_analysis.pbix
-├── README.md
